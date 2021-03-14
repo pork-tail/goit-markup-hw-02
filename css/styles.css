@@ -38,6 +38,11 @@ body {
 .logo:focus {
   color: var(--accent-color);
 }
+
+.logo {
+  text-decoration: none;
+}
+
 /* site nav */
 
 .site-nav .link {
@@ -59,6 +64,10 @@ body {
 
 .list {
   list-style: none;
+}
+
+.link {
+  text-decoration: none;
 }
 
 /* contact */
